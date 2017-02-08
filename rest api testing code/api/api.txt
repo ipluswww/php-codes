@@ -1,0 +1,10 @@
+https://github.com/nathanmac/laravel-restclient
+http://stackoverflow.com/questions/19124018/laravel-retrieving-data-from-rest-api
+http://www.programmableweb.com/category/all/apis?search_id=140913&keyword=amazon
+
+
+codeigniter
+https://www.formget.com/php-rest-api/
+
+laravel
+http://phptrends.com/dig_in/laravel-rest-client
