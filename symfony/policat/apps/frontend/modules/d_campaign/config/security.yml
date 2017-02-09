@@ -1,0 +1,23 @@
+delete:
+  is_secure: true
+  credentials: admin
+
+list:
+  is_secure: true
+  credentials: admin
+  
+pager:
+  is_secure: true
+  credentials: admin
+
+undelete:
+  is_secure: true
+  credentials: admin
+
+editPublic:
+  is_secure: true
+  credentials: admin
+
+hardDelete:
+  is_secure: true
+  credentials: admin

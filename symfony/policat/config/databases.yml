@@ -1,0 +1,23 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=192.168.99.1;dbname=policat-master
+      username: root
+      password: tomorrowvictory67.
+      attributes:
+        #default_table_collate: utf8_unicode_ci
+        default_table_collate: utf8_general_ci
+        default_table_charset: utf8
+
+stress:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn:      mysql:host=localhost;dbname=policat_test
+      username: develop
+      password: develop
+      attributes:
+        #default_table_collate: utf8_unicode_ci
+        default_table_collate: utf8_general_ci
+        default_table_charset: utf8

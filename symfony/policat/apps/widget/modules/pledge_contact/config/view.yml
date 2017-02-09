@@ -1,0 +1,4 @@
+all:
+  has_layout: false
+  metas:
+    robots: noindex, nofollow

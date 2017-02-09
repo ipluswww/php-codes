@@ -1,0 +1,16 @@
+001465320283001465320223a:2:{s:4:"data";a:3:{s:7:"content";s:601:"<div class="row">
+  <div class="span7">
+      <div class="page-header"><h1>Featured action</h1></div>
+  </div>
+  <div class="span5 top30">
+    <ul class="nav nav-tabs">
+    <li class="pull-right-force"><a class="rss" href="/feed"><img class="up5" alt="RSS feed" src="/images/icon_rss.png"/></a></li>
+</ul>
+<div class="tab-content">
+    </div>
+<script type="text/javascript">/*<!--*/
+  var policat = typeof policat === "undefined" ? {widgets: []} : policat;  policat['tags']={"policat":"","hottest":"","largest":"","recent":""};
+//-->
+</script>  </div>
+</div>
+<div id="twitter" class="row top30"></div>";s:17:"decoratorTemplate";s:78:"D:\project\upwork\symfony\policat-master\apps\frontend\templates/dashboard.php";s:8:"response";s:685:"C:13:"sfWebResponse":658:{a:11:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:2:{s:4:"Vary";s:6:"Cookie";s:13:"Cache-Control";s:35:"public, must-revalidate, max-age=60";}i:6;a:3:{s:5:"title";s:0:"";s:6:"robots";s:13:"index, follow";s:7:"charset";s:4:"utf8";}i:7;a:0:{}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:1:{s:0:"";N;}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:2:{s:0:"";N;s:13:"dist/frontend";a:0:{}}s:4:"last";a:2:{s:25:"dist/policat_widget_outer";a:0:{}s:14:"dashboard_home";a:0:{}}}i:10;a:0:{}}}";}s:4:"tags";a:0:{}}

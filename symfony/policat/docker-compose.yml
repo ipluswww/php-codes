@@ -1,0 +1,29 @@
+# for development
+#
+# Configure your config/databases.yml to connect to MySQL hostname "mysql",
+# using the credentials below. You have to manually initialize the database
+# with the provided fixtures before you can use Policat.
+#
+# On first `compose up`, you might get errors because MySQL needs to initialize
+# itself on first boot and Docker might not be able to properly link the
+# containers. In that case, just run `compose up` again.
+
+php:
+    build: docker/php
+    ports:
+        - "0.0.0.0:80:80"
+    volumes:
+        - '.:/var/www'
+    links:
+        - mysql
+
+mysql:
+    image: mariadb:10
+    environment:
+        MYSQL_ROOT_PASSWORD: anonemptypassword
+        MYSQL_USER: policat
+        MYSQL_PASSWORD: policat
+        MYSQL_DATABASE: policat
+
+# TODO:
+# - varnish

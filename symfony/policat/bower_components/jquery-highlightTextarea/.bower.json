@@ -1,0 +1,13 @@
+{
+  "name": "jquery-highlightTextarea",
+  "homepage": "https://github.com/moha297/jQuery-highlightTextarea",
+  "_release": "2.0",
+  "_resolution": {
+    "type": "tag",
+    "tag": "2.0",
+    "commit": "599d4685a472d356168ad64f2698ce579988f7ea"
+  },
+  "_source": "https://github.com/moha297/jQuery-highlightTextarea.git",
+  "_target": "2.0",
+  "_originalSource": "jQuery-highlightTextarea-bower"
+}
